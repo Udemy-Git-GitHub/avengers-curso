@@ -17,4 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Winter Soldier
 * Nick Fury
